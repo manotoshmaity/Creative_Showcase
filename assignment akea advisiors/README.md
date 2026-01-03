@@ -2,6 +2,7 @@
 
 A full-stack web application for artists to upload and showcase their digital memories and artwork. Built with React (frontend) and Node.js/Express (backend) with MongoDB for data storage.
 
+Hosting link:- https://creative-showcase-image.onrender.com/
 ## Features
 
 - **Landing Page**: Displays a random selection of user-uploaded images in a beautiful masonry/mosaic layout
